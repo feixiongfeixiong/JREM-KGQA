@@ -1,0 +1,186 @@
+0	NE directed_by
+1	NE directed_by_reverse
+2	NE has_genre
+3	NE has_genre_reverse
+4	NE has_imdb_rating
+5	NE has_imdb_rating_reverse
+6	NE has_imdb_votes
+7	NE has_imdb_votes_reverse
+8	NE has_tags
+9	NE has_tags_reverse
+10	NE in_language
+11	NE in_language_reverse
+12	NE release_year
+13	NE release_year_reverse
+14	NE starred_actors
+15	NE starred_actors_reverse
+16	NE written_by
+17	NE written_by_reverse
+18	directed_by
+19	directed_by_reverse
+20	has_genre
+21	has_genre_reverse
+22	has_imdb_rating
+23	has_imdb_rating_reverse
+24	has_imdb_votes
+25	has_imdb_votes_reverse
+26	has_tags
+27	has_tags_reverse
+28	in_language
+29	in_language_reverse
+30	release_year
+31	release_year_reverse
+32	starred_actors
+33	starred_actors_reverse
+34	the films directed by the director of NE starred who
+35	the films that share actors with the film NE are directed by who
+36	the films that share actors with the film NE are written by who
+37	the films that share actors with the film NE were in which genres
+38	the films that share actors with the film NE were in which languages
+39	the films that share actors with the film NE were released in which years
+40	the films that share directors with the film NE were in which genres
+41	the films that share directors with the film NE were in which languages
+42	the films that share directors with the film NE were released in which years
+43	the films that share directors with the films NE are written by who
+44	the films that share screenwriters with NE were released in which years
+45	the films that share writers with the film NE were in which genres
+46	the films written by the screenwriter of NE were directed by who
+47	the films written by the writer of NE starred who
+48	the movies directed by the director of NE starred who
+49	the movies that share actors with the movie NE are directed by who
+50	the movies that share actors with the movie NE are written by who
+51	the movies that share actors with the movie NE were in which genres
+52	the movies that share actors with the movie NE were in which languages
+53	the movies that share actors with the movie NE were released in which years
+54	the movies that share directors with the movie NE are written by who
+55	the movies that share directors with the movie NE were in which genres
+56	the movies that share directors with the movie NE were in which languages
+57	the movies that share directors with the movie NE were released in which years
+58	the movies that share screenwriters with the movie NE were in which languages
+59	the movies that share writers with the movie NE were in which genres
+60	the movies that share writers with the movie NE were in which languages
+61	the movies that share writers with the movie NE were released in which years
+62	the movies written by the screenwriter of NE starred who
+63	the movies written by the screenwriter of NE were directed by who
+64	what are the genres of the films whose actors also appear in NE
+65	what are the genres of the films whose directors also directed NE
+66	what are the genres of the films whose screenwriters also wrote NE
+67	what are the genres of the movies whose actors also appear in NE
+68	what are the genres of the movies whose directors also directed NE
+69	what are the genres of the movies whose writers also wrote NE
+70	what are the languages spoken in the films directed by the NE director
+71	what are the languages spoken in the films starred by NE actors
+72	what are the languages spoken in the films whose actors also appear in NE
+73	what are the languages spoken in the films whose directors also directed NE
+74	what are the languages spoken in the films whose writers also wrote NE
+75	what are the languages spoken in the films written by NE screenwriters
+76	what are the languages spoken in the movies directed by the NE director
+77	what are the languages spoken in the movies starred by NE actors
+78	what are the languages spoken in the movies whose actors also appear in NE
+79	what are the languages spoken in the movies whose directors also directed NE
+80	what are the languages spoken in the movies whose writers also wrote NE
+81	what are the languages spoken in the movies written by NE writers
+82	what are the primary languages in the films directed by the director of NE
+83	what are the primary languages in the films starred by actors in NE
+84	what are the primary languages in the films written by the screenwriter of NE
+85	what are the primary languages in the movies directed by the director of NE
+86	what are the primary languages in the movies starred by actors in NE
+87	what are the primary languages in the movies written by the writer of NE
+88	what genres are the films directed by the NE director
+89	what genres are the films starred by NE actors
+90	what genres are the films written by NE screenwriters
+91	what genres are the movies directed by the NE director
+92	what genres are the movies starred by NE actors
+93	what genres are the movies written by NE writers
+94	what genres do the films that share actors with NE fall under
+95	what genres do the films that share directors with NE fall under
+96	what genres do the films that share writers with NE fall under
+97	what genres do the movies that share actors with NE fall under
+98	what genres do the movies that share directors with NE fall under
+99	what genres do the movies that share screenwriters with NE fall under
+100	what languages are the films that share actors with NE in
+101	what languages are the films that share directors with NE in
+102	what languages are the films that share writers with NE in
+103	what languages are the movies that share actors with NE in
+104	what languages are the movies that share directors with NE in
+105	what languages are the movies that share screenwriters with NE in
+106	what types are the films directed by the director of NE
+107	what types are the films starred by actors in NE
+108	what types are the movies directed by the director of NE
+109	what types are the movies starred by actors in NE
+110	what types are the movies written by the screenwriter of NE
+111	what types are the movies written by the writer of NE
+112	what were the release dates of films directed by the director of NE
+113	what were the release dates of films starred by actors in NE
+114	what were the release dates of films written by the screenwriter of NE
+115	what were the release dates of movies directed by the director of NE
+116	what were the release dates of movies starred by actors in NE
+117	what were the release dates of movies written by the writer of NE
+118	what were the release years of the films that share actors with the film NE
+119	what were the release years of the films that share directors with the film NE
+120	what were the release years of the films that share writers with the film NE
+121	what were the release years of the movies that share actors with the movie NE
+122	what were the release years of the movies that share directors with the movie NE
+123	what were the release years of the movies that share screenwriters with the movie NE
+124	when did the films directed by the NE director release
+125	when did the films release whose actors also appear in the film NE
+126	when did the films release whose directors also directed NE
+127	when did the films release whose screenwriters also wrote NE
+128	when did the films starred by NE actors release
+129	when did the films written by NE writers release
+130	when did the movies directed by the NE director release
+131	when did the movies release whose actors also appear in the movie NE
+132	when did the movies release whose directors also directed NE
+133	when did the movies release whose writers also wrote NE
+134	when did the movies starred by NE actors release
+135	when did the movies written by NE writers release
+136	which person directed the films acted by the actors in NE
+137	which person directed the movies starred by the actors in NE
+138	which person wrote the films acted by the actors in NE
+139	which person wrote the films directed by the director of NE
+140	which person wrote the movies directed by the director of NE
+141	which person wrote the movies starred by the actors in NE
+142	who acted in the films directed by the director of NE
+143	who acted in the films written by the screenwriter of NE
+144	who acted in the movies directed by the director of NE
+145	who acted in the movies written by the writer of NE
+146	who are the actors in the films directed by the director of NE
+147	who are the actors in the films written by the screenwriter of NE
+148	who are the actors in the movies directed by the director of NE
+149	who are the actors in the movies written by the writer of NE
+150	who are the directors of films whose writers also wrote NE
+151	who are the directors of movies whose writers also wrote NE
+152	who are the directors of the films written by the writer of NE
+153	who are the directors of the movies written by the writer of NE
+154	who are the directors that the actors in their films also appear in the film NE
+155	who are the directors that the actors in their movies also appear in the movie NE
+156	who are the screenwriters that the actors in their movies also appear in the movie NE
+157	who are the screenwriters that the directors of their movies also directed NE
+158	who are the writers that the actors in their films also appear in the film NE
+159	who are the writers that the directors of their films also directed NE
+160	who directed films for the writer of NE
+161	who directed films that share actors with the film NE
+162	who directed movies for the writer of NE
+163	who directed movies that share actors with the movie NE
+164	who directed the films written by the writer of NE
+165	who directed the movies written by the writer of NE
+166	who is listed as director of the films starred by NE actors
+167	who is listed as director of the movies starred by NE actors
+168	who is listed as screenwriter of the films directed by the NE director
+169	who is listed as screenwriter of the films starred by NE actors
+170	who is listed as screenwriter of the movies directed by the NE director
+171	who is listed as screenwriter of the movies starred by NE actors
+172	who starred films for the director of NE
+173	who starred films for the screenwriter of NE
+174	who starred in the films whose directors also directed NE
+175	who starred in the films whose screenwriters also wrote NE
+176	who starred in the movies whose director also directed NE
+177	who starred in the movies whose writers also wrote NE
+178	who starred movies for the director of NE
+179	who starred movies for the writer of NE
+180	who wrote films that share actors with the film NE
+181	who wrote films that share directors with the film NE
+182	who wrote movies that share actors with the movie NE
+183	who wrote movies that share directors with the movie NE
+184	written_by
+185	written_by_reverse

@@ -1,0 +1,199 @@
+0	NE appears in which movies
+1	NE directed which films
+2	NE directed which movies
+3	NE directed_by
+4	NE directed_by_reverse
+5	NE has_genre
+6	NE has_genre_reverse
+7	NE has_imdb_rating
+8	NE has_imdb_rating_reverse
+9	NE has_imdb_votes
+10	NE has_imdb_votes_reverse
+11	NE has_tags
+12	NE has_tags_reverse
+13	NE in_language
+14	NE in_language_reverse
+15	NE is a film written by this person
+16	NE release_year
+17	NE release_year_reverse
+18	NE starred_actors
+19	NE starred_actors_reverse
+20	NE was the director of which films
+21	NE was the director of which movies
+22	NE was the director on which movies
+23	NE written_by
+24	NE written_by_reverse
+25	NE, is it any good
+26	NE, when was it released
+27	can you describe movie NE in a few words
+28	can you give a few words describing NE
+29	can you give a few words describing what NE is about
+30	can you name a film directed by NE
+31	describe NE
+32	describe NE in a few words
+33	describe the movie NE in a few words
+34	directed_by
+35	directed_by_reverse
+36	has_genre
+37	has_genre_reverse
+38	has_imdb_rating
+39	has_imdb_rating_reverse
+40	has_imdb_votes
+41	has_imdb_votes_reverse
+42	has_tags
+43	has_tags_reverse
+44	how famous of a film was NE
+45	how famous was NE
+46	how popular is NE
+47	how popular of a movie is NE
+48	how popular of a movie was NE
+49	how popular was NE
+50	how would people rate NE
+51	in_language
+52	in_language_reverse
+53	is NE considered good
+54	noop
+55	noop_reverse
+56	release_year
+57	release_year_reverse
+58	starred_actors
+59	starred_actors_reverse
+60	the director of NE was
+61	the director of NE was who
+62	the film NE starred which actors
+63	the film NE was directed by who
+64	the film NE was written by who
+65	the movie NE starred who
+66	the movie NE, when was it released
+67	what are some words that describe movie NE
+68	what did NE direct
+69	what did audiences think of NE
+70	what did people think of NE
+71	what do people think of NE
+72	what does NE act in
+73	what does NE appear in
+74	what does NE star in
+75	what film did NE write
+76	what film genre is NE
+77	what films are about NE
+78	what films can be described by NE
+79	what films can be described by the NE
+80	what films did NE act in
+81	what films did NE direct
+82	what films did NE star in
+83	what films did NE write
+84	what films does NE appear in
+85	what films was NE a writer on
+86	what genre does NE fall under
+87	what genre is NE in
+88	what genre of film is NE
+89	what genre of movie is NE
+90	what is a film directed by NE
+91	what is a film written by NE
+92	what is a movie written by NE
+93	what is popular opinion about NE
+94	what is the genre for NE
+95	what is the genre for the film NE
+96	what is the genre for the movie NE
+97	what is the genre of NE
+98	what is the genre of the film NE
+99	what is the genre of the movie NE
+100	what is the language spoken in NE
+101	what is the language spoken in the film NE
+102	what is the language spoken in the movie NE
+103	what is the main language in NE
+104	what is the primary language in NE
+105	what is the primary language in the film NE
+106	what is the rating of NE
+107	what kind of film is NE
+108	what kind of movie is NE
+109	what language is NE in
+110	what language is the movie NE in
+111	what movie did NE write the story for
+112	what movies are about NE
+113	what movies can be described by NE
+114	what movies can be described with NE
+115	what movies did NE act in
+116	what movies did NE direct
+117	what movies did NE star in
+118	what movies did NE write
+119	what movies was NE an actor in
+120	what movies was NE the writer of
+121	what rating would people give NE
+122	what sort of film is NE
+123	what sort of movie is NE
+124	what terms are applicable to NE
+125	what topics is NE about
+126	what type of film is NE
+127	what type of movie is NE
+128	what was NE the director of
+129	what was the genre of NE
+130	what was the genre of the film NE
+131	what was the genre of the movie NE
+132	what was the popularity rating of NE
+133	what was the rating of NE
+134	what was the release date of NE
+135	what was the release date of the film NE
+136	what was the release date of the movie NE
+137	what was the release year of NE
+138	what was the release year of the film NE
+139	what was the release year of the movie NE
+140	what words describe NE
+141	what words describe film NE
+142	what year was NE released
+143	what year was the film NE released
+144	what year was the movie NE released
+145	when was NE released
+146	when was the film NE released
+147	when was the movie NE released
+148	which film did NE write
+149	which film did NE write the story for
+150	which films are about NE
+151	which films can be described by NE
+152	which films did NE direct
+153	which movie did NE write
+154	which movie was NE the director for
+155	which movies are about NE
+156	which movies can be described by NE
+157	which movies did NE direct
+158	which movies was NE a writer on
+159	which movies was NE the writer of
+160	which person directed NE
+161	which person wrote NE
+162	which person wrote the movie NE
+163	which screenwriter wrote the script for NE
+164	which topics is NE about
+165	which topics is movie NE about
+166	which words describe NE
+167	which words describe film NE
+168	which words describe movie NE
+169	who acted in NE
+170	who acted in the movie NE
+171	who are the actors in NE
+172	who directed NE
+173	who directed the film NE
+174	who directed the movie NE
+175	who in the world wrote NE
+176	who is listed as director for NE
+177	who is the author of NE
+178	who is the creator of the film script for NE
+179	who is the director for NE
+180	who is the director of NE
+181	who is the director that directed NE
+182	who is the writer of NE
+183	who is the writer of the film NE
+184	who starred in NE
+185	who stars in NE
+186	who was NE directed by
+187	who was NE written by
+188	who was the director of NE
+189	who was the writer of NE
+190	who was the writer of the film NE
+191	who wrote NE
+192	who wrote the film NE
+193	who wrote the movie NE
+194	who wrote the screenplay for NE
+195	who's the director of NE
+196	who's the writer of NE
+197	written_by
+198	written_by_reverse
